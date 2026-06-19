@@ -1,0 +1,45 @@
+#geral {
+    min-height: 500px;
+    margin: 20px auto;
+    max-width: 500px; /* Limita a largura para ficar centralizado e bonito */
+}
+
+h3 {
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+}
+
+#div-form, #div-lista-pessoas {
+    margin: 20px 0px;
+    padding: 5px;
+}
+
+form {
+    background-color: rgb(173, 220, 252);
+    padding: 15px; /* Aumentado levemente para dar mais respiro aos elementos */
+    border-radius: 8px;
+    color: rgb(0, 5, 2);
+}
+
+label, input {
+    display: block;
+    margin: 10px 0px;
+    width: 350px;
+    height:  30px;
+    font-size: 1.2em;
+    padding: 0px 15px;
+
+}
+
+input {
+    width: 100%;
+    box-sizing: border-box;
+    padding: 5px;
+}
+
+button {
+    margin-top: 10px;
+    padding: 8px 15px;
+    cursor: pointer;
+}

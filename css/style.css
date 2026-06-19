@@ -39,7 +39,15 @@ input {
 }
 
 button {
-    margin-top: 10px;
-    padding: 8px 15px;
+    margin: 20px 0px;
+    width: 8px 15px;
     cursor: pointer;
+    height: 35px;
+}
+   #div-lista-pessoas{
+    background-color: aquamarine;
+    border-radius: 5px;
+    padding: 25px;
+
+
 }
